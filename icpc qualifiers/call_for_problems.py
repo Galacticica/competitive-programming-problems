@@ -1,3 +1,4 @@
+#SOLVED
 n = int(input())
 d = []
 odd_problems = 0

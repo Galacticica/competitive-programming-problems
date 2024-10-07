@@ -1,3 +1,4 @@
+#SOLVED
 bears = int(input())
 ordered_pairs = []
 barriers = []
